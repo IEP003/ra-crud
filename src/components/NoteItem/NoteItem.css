@@ -1,0 +1,19 @@
+.note-items {
+    border: 1px black solid;
+    min-width: 100px;
+    max-width: 250px;
+    min-height: 100px;
+    margin: 10px;
+    position: relative;
+}
+
+.item-delete {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    cursor: pointer;
+}
+
+.note-content { 
+    margin: 20px;
+}

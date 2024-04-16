@@ -1,0 +1,17 @@
+.notes {
+    display: flex;
+    flex-direction: row;
+}
+
+.refresh-notes {
+    height: 20px;
+    align-self: center;
+    margin-left: 10px;
+}
+
+.notes-feild {
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 550px;
+}

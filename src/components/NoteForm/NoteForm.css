@@ -1,0 +1,13 @@
+.note-form-container {
+    display: inline-block;
+    position: relative;
+    height: 152px;
+    width: 456px;
+}
+
+.note-form-submit {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
